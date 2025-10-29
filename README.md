@@ -288,4 +288,4 @@ Complete results in tabular format:
 - Section 3: Individual ensemble results
 - Section 4: Merged ensemble results
 
-**⭐ If this framework helped your research, please consider starring the repository!**
+ **⭐ If this framework helped your research, please consider starring the repository!**
